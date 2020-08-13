@@ -18,6 +18,7 @@ func _ready():
 
 func _on_ButtonStart_pressed():
 	get_tree().change_scene("res://Gameplay.tscn")
+	bgm.play_bgm()
 
 
 func _on_ButtonAgain_pressed():

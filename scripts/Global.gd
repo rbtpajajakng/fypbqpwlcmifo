@@ -11,11 +11,6 @@ func _ready():
 	is_game_started = false
 
 
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-#func _process(delta):
-#	pass
-
-
 func start_game():
 	is_game_started = true
 	$"/root/Gameplay/ScoreTimer".start()

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Mid-Air_Machine_-_Where_From.ogg-7d019c3d0f9f251d20eac9be4de616bf.oggstr"
+
+[deps]
+
+source_file="res://BGM/Mid-Air_Machine_-_Where_From.ogg"
+dest_files=[ "res://.import/Mid-Air_Machine_-_Where_From.ogg-7d019c3d0f9f251d20eac9be4de616bf.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

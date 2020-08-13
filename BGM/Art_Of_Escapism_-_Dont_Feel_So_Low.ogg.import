@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Art_Of_Escapism_-_Dont_Feel_So_Low.ogg-fd5e135d3266d1fa0cd8c2aa9499b251.oggstr"
+
+[deps]
+
+source_file="res://BGM/Art_Of_Escapism_-_Dont_Feel_So_Low.ogg"
+dest_files=[ "res://.import/Art_Of_Escapism_-_Dont_Feel_So_Low.ogg-fd5e135d3266d1fa0cd8c2aa9499b251.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

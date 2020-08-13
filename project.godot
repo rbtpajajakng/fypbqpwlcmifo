@@ -22,6 +22,7 @@ config/icon="res://icon.png"
 [autoload]
 
 global_script="*res://scripts/Global.gd"
+bgm="*res://BGM.tscn"
 
 [display]
 

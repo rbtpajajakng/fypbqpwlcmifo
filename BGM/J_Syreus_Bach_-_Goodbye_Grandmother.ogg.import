@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/J_Syreus_Bach_-_Goodbye_Grandmother.ogg-b381e53a44bd4f4ac242fcf26e1e265b.oggstr"
+
+[deps]
+
+source_file="res://BGM/J_Syreus_Bach_-_Goodbye_Grandmother.ogg"
+dest_files=[ "res://.import/J_Syreus_Bach_-_Goodbye_Grandmother.ogg-b381e53a44bd4f4ac242fcf26e1e265b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
