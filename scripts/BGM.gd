@@ -14,4 +14,5 @@ func play_bgm():
 	rng.randomize()
 	var num = rng.randi_range(0, 4)
 	stream = tracks[num]
+	volume_db = 0
 	play()

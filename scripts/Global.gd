@@ -23,4 +23,3 @@ func stop_game():
 
 func increment_score():
 	scores += 1
-	print(scores)
