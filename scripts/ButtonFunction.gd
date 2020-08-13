@@ -23,3 +23,4 @@ func _on_ButtonStart_pressed():
 
 func _on_ButtonAgain_pressed():
 	get_tree().change_scene("res://StartMenu.tscn")
+	bgm.stop()
